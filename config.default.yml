@@ -56,4 +56,4 @@ cache:
     guild_config_cache_length: 100
     guild_config_cache_seconds: 30
     http_cache_length: 100
-    http_cache_seconds: 600
+    http_cache_seconds: 500
